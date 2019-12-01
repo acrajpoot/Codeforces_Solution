@@ -1,3 +1,3 @@
 # Codeforces_Solution
- Solution of Codeforces ProblemSet Questions
- Programming language used for implementation is Python
+1. Solution of Codeforces ProblemSet Questions
+2. Programming language used for implementation is Python
